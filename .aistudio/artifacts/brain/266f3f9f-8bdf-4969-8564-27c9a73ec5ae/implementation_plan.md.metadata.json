@@ -1,0 +1,6 @@
+{
+  "summary": "Plano de implementação atualizado com a inclusão explícita das duas exigências inegociáveis: implementação 100% integral dos codificadores binários (sem TODOs ou stubs) para ICO 6 camadas, BMP 32-bit, WAV PCM 16/32-bit e transpilador bidirecional de dados (JSON/CSV/TSV/SQL/XML/YAML/MD/HTML), bem como o pipeline completo de extração de áudio WAV e captura de frames reais de vídeo via elemento HTML5 Video e Canvas/AudioContext.",
+  "updatedAt": "2026-10-14T23:24:46.886520991Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

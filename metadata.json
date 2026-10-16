@@ -1,0 +1,8 @@
+{
+  "name": "OmniConvert",
+  "description": "Estação de trabalho para transcodificação e conversão universal de mídias e dados no navegador com tema Amarelo e Âmbar Elétrico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
